@@ -21,11 +21,25 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+## Technologies Used  
+Programming Language  
+- Python 3  
+API  
+- Twitter API (Standard v1.1)  
+Libraries  
+- numpy  
+- os  
+- pandas  
+- seaborn  
+- matplotlib  
+- nltk  
+- sklearn  
+- jieba  
+- keras  
+- torch  
+- re  
+- functools  
+- wordcloud  
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
