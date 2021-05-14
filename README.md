@@ -26,6 +26,7 @@ Programming Language
 - Python 3  
 API  
 - Twitter API (Standard v1.1)  
+  
 Libraries  
 - numpy  
 - os  
