@@ -14,11 +14,15 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This is the team project of CIS600 Dataming course.  
+- Collecting data using Twitter API (search and streaming) on the trend of Asian Hate.  
+- Analyzing search data state by state to compare the difference between states.  
+- Loading streaming data and label tweets in positive, objective and negative  
+  (Another version in positive and negative).  
+- Creating word clouds on positive, negative and objective tweets.  
+- Constructing training and testing sets, using SVM, Naive Bayes, Single-layer CNN  
+  and TextCNN to train the data.  
+- Make attempt using BERT to train the data.  
 
 
 ## Technologies Used  
