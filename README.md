@@ -28,6 +28,7 @@
 ## Technologies Used  
 Programming Language  
 - Python 3  
+- Jupyter Notebook  
   
 API   
 - Twitter API (Standard v1.1)  
