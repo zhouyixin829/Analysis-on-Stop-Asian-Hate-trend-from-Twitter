@@ -45,12 +45,14 @@ Libraries
 
 ## Setup
 1. Install anaconda on your computer  
-  - Windows: Follow <https://docs.anaconda.com/anaconda/install/windows/>  
-  - Mac: Follow <https://docs.anaconda.com/anaconda/install/mac-os/>  
-  - Linux: Follow <https://docs.anaconda.com/anaconda/install/linux/>  
+   - Windows: Follow <https://docs.anaconda.com/anaconda/install/windows/>  
+   - Mac: Follow <https://docs.anaconda.com/anaconda/install/mac-os/>  
+   - Linux: Follow <https://docs.anaconda.com/anaconda/install/linux/>  
 2. Make sure you have installed python on your computer, here is the link:  
-  <https://www.python.org/>, then open anaconda and select jupyter notebook.  
+  <https://www.python.org/>, then open anaconda and select jupyter notebook. 
+    
 3. Download the data files in DataFiles/ on your computer  
+  
 4. Download the .ipynb or .py files in Code/ and open in jupyter notebook, 
   make sure that the directory is correct.  
   
