@@ -79,7 +79,7 @@ This project was inspired by...
 
 ## Contact
 Created by the following members, feel free to contact us!  
--[yzhou01@syr.edu](yzhou01@syr.edu)  
+-[yzhou01@syr.edu](https://yzhou01@syr.edu)  
 -[hgao12@g.syr.edu](hgao12@g.syr.edu)  
 -[rli127@g.syr.edu](rli127@g.syr.edu)  
 -[XKZMX1@gmail.com](XKZMX1@gmail.com)  
