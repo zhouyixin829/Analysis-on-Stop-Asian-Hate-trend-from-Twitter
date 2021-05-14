@@ -80,11 +80,11 @@ This project was inspired by...
 ## Contact
 Created by the following members, feel free to contact us!  
 -<yzhou01@syr.edu>  
--[hgao12@g.syr.edu](hgao12@g.syr.edu)  
--[rli127@g.syr.edu](rli127@g.syr.edu)  
--[XKZMX1@gmail.com](XKZMX1@gmail.com)  
--[xchen210@g.syr.edu](xchen210@g.syr.edu)  
--[yli960918@gmail.com](yli960918@gmail.com)  
+-<hgao12@g.syr.edu>   
+-<rli127@g.syr.edu>  
+-<XKZMX1@gmail.com>  
+-<xchen210@g.syr.edu>  
+-<yli960918@gmail.com>  
 
 
 
