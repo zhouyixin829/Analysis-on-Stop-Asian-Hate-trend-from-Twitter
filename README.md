@@ -56,6 +56,8 @@ Libraries
 4. Download the .ipynb or .py files in Code/ and open in jupyter notebook, 
   make sure that the directory is correct.  
   
+5. Additionally, you can also only download the .html files in Code/ and open them.  
+  
 
 
 
