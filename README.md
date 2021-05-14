@@ -44,9 +44,17 @@ Libraries
 - wordcloud  
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+1. Install anaconda on your computer  
+  - Windows: Follow <https://docs.anaconda.com/anaconda/install/windows/>  
+  - Mac: Follow <https://docs.anaconda.com/anaconda/install/mac-os/>  
+  - Linux: Follow <https://docs.anaconda.com/anaconda/install/linux/>  
+2. Make sure you have installed python on your computer, here is the link:  
+  <https://www.python.org/>, then open anaconda and select jupyter notebook.  
+3. Download the data files in DataFiles/ on your computer  
+4. Download the .ipynb or .py files in Code/ and open in jupyter notebook, 
+  make sure that the directory is correct.  
+  
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Features
@@ -90,7 +98,7 @@ Created by the following members, feel free to contact us!
 
 
 ## License
-Copyright (c) [2021] [Ethan Zhou]
+Copyright (c) [2021] [Yixin Zhou]
   
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
