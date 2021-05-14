@@ -24,7 +24,8 @@
 ## Technologies Used  
 Programming Language  
 - Python 3  
-API  
+  
+API   
 - Twitter API (Standard v1.1)  
   
 Libraries  
