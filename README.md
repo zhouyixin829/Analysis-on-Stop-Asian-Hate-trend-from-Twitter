@@ -68,9 +68,9 @@ Libraries
 
 
 ## Features
-Here are some of the features in project:  
+Here are some of the features, with the link of code:  
 - Analysis on data  
-- Visualize the frequency - using WordCloud [WordCloud](./Code/WordCloud.ipynb)  
+- Visualize the frequency [WordCloud](./Code/WordCloud.ipynb)  
 - Machine learning models - SVM, Naive-Bayes, Single-layerCNN, TextCNN [SentimentBy3](./Code/SentimentAnalysis_PosObjNeg.ipynb)  
 - Two classifications (above is three-sentiments, here is two-sentiments [SentimentBy2](./Code/SentimentAnalysis_PosNeg.ipynb)  
 
