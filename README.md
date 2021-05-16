@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
 * [Sources](#sources)
 * [Contact](#contact)
@@ -77,11 +76,23 @@ List the ready features here:
 - Two classifications (three-sentiments and two sentiments)  
 
 
-
+## Room for improvement  
+There are still some limitations need to be done in the future:  
+- Crawling more data to improve the performance on machine learning models.  
+- Finishing BERT model on a higher computing power GPU.  
+- The misclassification between postive and objective sentiments is still a problem to be solved.  
 
 ## Sources
-This project was inspired by...
-
+This project was inspired by:  
+- Hswen, Y., Xu, X., Hing, A., Hawkins, J. B., Brownstein, J. S., & Gee, G. C. (2021).   
+Association of “# covid19” Versus “# chinesevirus” With Anti-Asian Sentiments on   
+Twitter: March 9–23, 2020. American Journal of Public Health, 111(5), 956-964.  
+- Zafarani, R., 1983, Abbasi, M. A., 1975, & Liu, H., 1958. (2014). Social media mining:   
+An introduction. Cambridge University Press  
+- SimonZhangITer/DataVisualization. GitHub. (2021). Retrieved 16 May 2021, from   
+https://github.com/SimonZhangITer/DataVisualization.  
+- SimonZhangITer/DataVisualization. GitHub. (2021). Retrieved 16 May 2021, from 
+https://github.com/SimonZhangITer/DataVisualization.  
 
 
 ## Contact
