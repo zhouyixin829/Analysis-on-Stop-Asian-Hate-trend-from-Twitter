@@ -14,7 +14,7 @@
 
 
 ## General Information
-- This is the team project of CIS600 Dataming course.  
+- Our goal is using machine learning method classify the attitude of a tweet.  
 - Collecting data using Twitter API (search and streaming) on the trend of Asian Hate.  
 - Analyzing search data state by state to compare the difference between states.  
 - Loading streaming data and label tweets in positive, objective and negative  
@@ -23,6 +23,8 @@
 - Constructing training and testing sets, using SVM, Naive Bayes, Single-layer CNN  
   and TextCNN to train the data.  
 - Make attempt using BERT to train the data.  
+  
+- We also try to do the same process above in a two-sentiment classification (Negative + Positive)
 
 
 ## Technologies Used  
@@ -68,25 +70,13 @@ Libraries
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Analysis on search data state by state  
+- WordClouds on streaming data  
+- SVM and Naive-Bayes models  
+- Single-layer CNN and TextCNN  
+- Two classifications (three-sentiments and two sentiments)  
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-
-
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
 
 
 ## Sources
