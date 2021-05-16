@@ -91,8 +91,11 @@ Twitter: March 9–23, 2020. American Journal of Public Health, 111(5), 956-964.
 An introduction. Cambridge University Press  
 - SimonZhangITer/DataVisualization. GitHub. (2021). Retrieved 16 May 2021, from   
 https://github.com/SimonZhangITer/DataVisualization.  
-- SimonZhangITer/DataVisualization. GitHub. (2021). Retrieved 16 May 2021, from 
-https://github.com/SimonZhangITer/DataVisualization.  
+- Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification.   
+Arxiv.org. Retrieved 14 May 2021, from https://arxiv.org/pdf/1408.5882v2.pdf.   
+-  Han, J., Kamber, M., & Pei, J. (. s. (2012;2011;2006;). Data mining: Concepts and  
+techniques (3rd ed.). Elsevier/Morgan Kaufmann.
+ 
 
 
 ## Contact
