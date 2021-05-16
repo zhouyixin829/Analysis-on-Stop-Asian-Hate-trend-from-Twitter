@@ -68,9 +68,9 @@ Libraries
 
 
 ## Features
-List the ready features here:
+Here are some of the features in project:  
 - Analysis on search data state by state  
-- WordClouds on streaming data  
+- WordClouds on streaming data [wordCloud code](./code/WordCloud.ipynb)  
 - SVM and Naive-Bayes models  
 - Single-layer CNN and TextCNN  
 - Two classifications (three-sentiments and two sentiments)  
