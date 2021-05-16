@@ -69,11 +69,10 @@ Libraries
 
 ## Features
 Here are some of the features in project:  
-- Analysis on search data state by state  
-- WordClouds on streaming data [wordCloud code](./code/WordCloud.ipynb)  
-- SVM and Naive-Bayes models  
-- Single-layer CNN and TextCNN  
-- Two classifications (three-sentiments and two sentiments)  
+- Analysis on data  
+- Visualize the frequency - using WordCloud [WordCloud](./Code/WordCloud.ipynb)  
+- Machine learning models - SVM, Naive-Bayes, Single-layerCNN, TextCNN [SentimentBy3](./Code/SentimentAnalysis_PosObjNeg.ipynb)  
+- Two classifications (above is three-sentiments, here is two-sentiments [SentimentBy2](./Code/SentimentAnalysis_PosNeg.ipynb)  
 
 
 ## Room for improvement  
